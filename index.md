@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+[Home](./index.html) ·
+[Research & Interests](./interests.html) ·
+[Publications & Projects](./publications-projects.html)
+
+---
 
 # Surya Pratap Singh
 
